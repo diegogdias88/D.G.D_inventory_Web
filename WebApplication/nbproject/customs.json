@@ -4,6 +4,14 @@
             "attributes": {
                 "align": {}
             }
+        },
+        "button": {},
+        "img": {
+            "attributes": {
+                "src": {},
+                "href": {},
+                "target": {}
+            }
         }
     },
     "attributes": {}
